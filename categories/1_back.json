@@ -1,0 +1,43 @@
+{
+  "details": {
+    "category": "EWS-SC"
+  },
+  "rows": [
+    {"sno":"1","plot_category":"EWS","plot_no":"E-01","area":"44.94","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"2","plot_category":"EWS","plot_no":"E-02","area":"44.47","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"3","plot_category":"EWS","plot_no":"E-03","area":"44.47","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"4","plot_category":"EWS","plot_no":"E-04","area":"43.02","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"5","plot_category":"EWS","plot_no":"E-05","area":"37.1","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"6","plot_category":"EWS","plot_no":"E-06","area":"38.41","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"7","plot_category":"EWS","plot_no":"E-07","area":"39.41","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"8","plot_category":"EWS","plot_no":"E-08","area":"10.67","transaction_id":"","full_name":"","category":"","is_mandatory":true},
+    {"sno":"9","plot_category":"EWS","plot_no":"E-09","area":"41.47","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"10","plot_category":"EWS","plot_no":"E-10","area":"42.28","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"11","plot_category":"EWS","plot_no":"E-11","area":"43","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"12","plot_category":"EWS","plot_no":"E-12","area":"43.65","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"13","plot_category":"EWS","plot_no":"E-13","area":"44.31","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"14","plot_category":"EWS","plot_no":"E-14","area":"44.97","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"15","plot_category":"EWS","plot_no":"E-15","area":"44.48","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"16","plot_category":"EWS","plot_no":"E-16","area":"44.46","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"17","plot_category":"EWS","plot_no":"E-17","area":"44.54","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"18","plot_category":"EWS","plot_no":"E-18","area":"44.54","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"19","plot_category":"EWS","plot_no":"E-19","area":"44.53","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"20","plot_category":"EWS","plot_no":"E-20","area":"44.52","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"21","plot_category":"EWS","plot_no":"E-21","area":"44.57","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"22","plot_category":"EWS","plot_no":"E-22","area":"44.8","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"23","plot_category":"EWS","plot_no":"E-23","area":"44.47","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"24","plot_category":"EWS","plot_no":"E-24","area":"44.71","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"25","plot_category":"EWS","plot_no":"E-25","area":"44.95","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"26","plot_category":"EWS","plot_no":"E-26","area":"43.11","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"27","plot_category":"EWS","plot_no":"E-27","area":"44.5","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"28","plot_category":"EWS","plot_no":"E-28","area":"41.56","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"29","plot_category":"EWS","plot_no":"E-29","area":"39.36","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"30","plot_category":"EWS","plot_no":"E-30","area":"38.36","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"31","plot_category":"EWS","plot_no":"E-31","area":"10","transaction_id":"","full_name":"","category":"","is_mandatory":true},
+    {"sno":"32","plot_category":"EWS","plot_no":"E-32","area":"38.94","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"33","plot_category":"EWS","plot_no":"E-33","area":"43.01","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"34","plot_category":"EWS","plot_no":"E-34","area":"39.78","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"35","plot_category":"EWS","plot_no":"E-35","area":"39.43","transaction_id":"","full_name":"","category":"","is_mandatory":false},
+    {"sno":"36","plot_category":"EWS","plot_no":"E-36","area":"43.97","transaction_id":"","full_name":"","category":"","is_mandatory":false}
+  ]
+}
